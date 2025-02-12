@@ -1,0 +1,64 @@
+body{
+    background-color: #FFEBEE;
+    margin: 0;
+}
+/* img{
+    position: fixed;
+} */
+button{
+    border: none;
+    position: fixed;
+    background-color: #FFEBEE;
+}
+#Button_main_1{
+    top:404px;
+    left: 1303px;
+}
+#Button_shop_locked{
+    top: 547px;
+    left: 1274px;
+}
+#Button_yes_1{
+    top: 290px;
+    left: 606px;
+}
+#Button_no_1{
+    top: 290px;
+    left: 943px;
+}
+#Button_shop{
+    top: 392px;
+    left: 1084px;
+}
+#Button_yes_smol{
+    top: 328px;
+    left: 606px;
+}
+#Button_no_big{
+    top: 255px;
+    left: 861px;
+}
+#Button_1{
+    top: 313px;
+    left: 729px;
+}
+#Button_2{
+    top: 430px;
+    left: 729px;
+}
+#Button_3{
+    top: 547px;
+    left: 729px;
+}
+#Button_4{
+    top: 664px;
+    left: 729px;
+}
+#Button_yes_big{
+    top: 240px;
+    left: 609px;
+}
+#Button_no_smol{
+    top: 915px;
+    left: 0px;
+}
